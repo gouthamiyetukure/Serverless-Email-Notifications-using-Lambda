@@ -1,1 +1,3 @@
 # Serverless-Email-Notifications-using-Lambda
+
+Serverless Email Notifications using AWS Lambda is a scalable solution that allows you to send automated emails without managing server infrastructure. It typically involves integrating Lambda with AWS services like Amazon SES (Simple Email Service) to trigger email notifications in response to specific events (e.g., form submissions, database updates, etc.). When the event occurs, Lambda executes a function that processes the event and sends an email via SES. This serverless approach is cost-effective and easily scales with demand, making it ideal for dynamic email notification systems.
